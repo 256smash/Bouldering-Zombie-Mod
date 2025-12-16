@@ -1,0 +1,10 @@
+{
+    "entity.wich.bouldering_zombie": "Зомби-скалолаз",
+    "item.wich.bouldering_zombie_spawn_egg": "Яйцо призыва зомби-скалолаза",
+    "subtitles.entity.bouldering_zombie.ambient": "Зомби-скалолаз стонет",
+    "subtitles.entity.bouldering_zombie.death": "Зомби-скалолаз погибает",
+    "subtitles.entity.bouldering_zombie.hurt": "Зомби-скалолаз ранен",
+    "subtitles.entity.bouldering_zombie.climb": "Зомби-скалолаз поднимается",
+    "subtitles.entity.parrot.imitate.bouldering_zombie": "Попугай стонет как зомби-скалолаз",
+    "modmenu.descriptionTranslation.wich_bouldering-zombies": "Добавляет зомби-скалолаза из Minecraft Earth."
+  }
